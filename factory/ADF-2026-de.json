@@ -1,0 +1,9 @@
+{
+	"name": "ADF-2026-de",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d959d9cd-3b9f-4edf-a8e3-38e3f4d60682",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}

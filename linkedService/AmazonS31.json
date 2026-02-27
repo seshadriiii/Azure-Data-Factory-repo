@@ -1,0 +1,15 @@
+{
+	"name": "AmazonS31",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "First connection with the S3",
+		"annotations": [],
+		"type": "AmazonS3",
+		"typeProperties": {
+			"serviceUrl": "https://s3.amazonaws.com",
+			"accessKeyId": "AKIAYLUXRL3JAML6K4TH",
+			"authenticationType": "AccessKey",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDIxRTdBM0MxLTlBREUtNDY4MS1CODQxLUE5RUQyNzExNkMxQ19kMjcwZTI5MC1jM2UxLTQ3YmItYWZmOC0zMGNhNjU0ZTBmMjYiDQp9"
+		}
+	}
+}
